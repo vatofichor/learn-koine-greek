@@ -1,54 +1,56 @@
-# Koine Greek Course
+# Learn Koine Greek Course
 
-Instructions for installation, running, uninstallation, and content contribution guidelines.
+A lightweight, premium learning space featuring 22 comprehensive lessons covering alphabet, pronunciation, grammar, verbal aspect mapping, lexicon study sets, and historical Septuagint contexts.
 
-> [!NOTE]
-> WIP COMPLETE REFACTOR COMING
+This application is built on top of the database-free **Simple Course Explorer** framework.
 
 ---
 
-## 🚀 Run & Installation Instructions
+## Run & Installation Instructions
 
 ### Windows
-1. Double-click the **`install.bat`** script. This validates your PHP environment (or configures a local portable PHP runtime) and unpacks the startup scripts.
-2. Double-click the newly unpacked **`run-server.bat`** script in the root folder.
-3. Your browser will open to `http://localhost:8000`.
+1. Double-click the **`install.bat`** script. This validates your local PHP environment (or configures a portable PHP runtime) and prompts you to configure your administrator password.
+2. Double-click **`run-server.bat`** to start the local development server.
+3. Your browser will automatically open to `http://localhost:8000/` showing the student reader.
 
 ### macOS / Linux
-1. Open your terminal in this directory and execute:
+1. Open a terminal in this directory and execute:
    ```bash
    chmod +x install.sh && ./install.sh
    ```
-2. Run the server using:
+2. Start the local development server:
    ```bash
    ./run-server.sh
    ```
-3. Open your browser and navigate to: `http://localhost:8000`.
+3. Open your browser and navigate to `http://localhost:8000/`.
+
+### Uninstallation
+- **Windows:** Double-click **`uninstall.bat`** to clean up root runner scripts.
+- **macOS / Linux:** Run `./uninstall.sh` in the terminal.
+*The portable PHP runtime (`php/` folder) and your lesson files are preserved.*
 
 ---
 
-## 🗑️ Uninstallation Instructions
-- **Windows:** Double-click **`uninstall.bat`** to remove root startup scripts.
-- **macOS / Linux:** Run `./uninstall.sh` in your terminal.
-*The downloaded `php/` binary folder and course contents are preserved. To delete everything, remove the project folder manually.*
+## Content Creator Studio & Editor
+
+You can edit, refine, or review lessons directly via the browser-based Creator Studio:
+
+1. **Login to the GUI Dashboard:** Navigate to `http://localhost:8000/admin/` to log in with your administrator password.
+2. **Re-configuring / Resetting Password:** Run the password helper tool from your terminal:
+   - **Windows:** Double-click `dev/admin_scripts/update_password.bat`
+   - **macOS / Linux:** Execute `./dev/admin_scripts/update_password.sh`
+3. **Draft vs Published States:** Check the **Ready / Published** toggle in the editor to control visibility. Unchecked lessons are drafts and will be skipped during builds.
+4. **Rebuilding the Course:** Click **Rebuild Course HTML** on your admin dashboard, or compile via command line by executing:
+   ```bash
+   php dev/admin_scripts/convert.php
+   ```
 
 ---
 
-## ✍️ Content Contribution Guidelines
+## In-Depth Framework Documentation
 
-When editing or updating lessons in `content/`, you must follow these metadata tagging rules on the root `<article>` tag of the HTML files:
-
-### 1. Human-Reviewed & Modified Content (`data-modified`)
-Use this attribute for articles that have been reviewed, corrected, or modified by a human contributor. Originally, some articles were generated with AI assistance; when you edit or review them, you should transition them to this state.
-- **MUST** remove the `data-generated` attribute.
-- **MUST** add the `data-modified="[contributors]"` attribute with the contributors' names as the value (e.g., `<article data-modified="John">`).
-- **Badge Displayed:** `⚡ Generated and Modified Content. Contributors: [contributors]`
-
-### 2. AI-Generated Content (`data-generated`)
-For raw or unedited content generated with AI assistance:
-- Marked with the `data-generated` attribute.
-- We welcome contributors to edit, refine, or correct this content and add their name by switching it to `data-modified`!
-- **Badge Displayed:** `⚡ Generated / Assisted. Contributors welcome, add your name!`
+For complete, detailed instructions on configuring modules, customization layouts, the Markdown rendering engine specifications, or deploying the Creator Studio onto production web servers, check the core repository at:
+**[simple-course-explorer on GitHub](https://github.com/vatofichor/simple-course-explorer)**
 
 ---
 
