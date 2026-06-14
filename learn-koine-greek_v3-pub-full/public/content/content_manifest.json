@@ -1,0 +1,134 @@
+[
+    {
+        "relative_path": "0Beginner/Introduction/01-Course-Introduction.html",
+        "title": "Welcome to learn-koine-greek",
+        "order": 0,
+        "section": "0Beginner"
+    },
+    {
+        "relative_path": "0Beginner/Introduction/02-README.html",
+        "title": "GitHub Project README",
+        "order": 1,
+        "section": "0Beginner"
+    },
+    {
+        "relative_path": "0Beginner/Introduction/03-Greek-Dialects-History.html",
+        "title": "Overview: Greek Dialect Over Time",
+        "order": 2,
+        "section": "0Beginner"
+    },
+    {
+        "relative_path": "0Beginner/Introduction/04-Verbs-Morphological-Map.html",
+        "title": "Map of Ancient Greek Morphology by Mood",
+        "order": 3,
+        "section": "0Beginner"
+    },
+    {
+        "relative_path": "0Beginner/Introduction/05-Alphabet-and-Counting.html",
+        "title": "Updated Greek Alphabet Reference Table v-1",
+        "order": 4,
+        "section": "0Beginner"
+    },
+    {
+        "relative_path": "0Beginner/Part_One/A-Study-On-Parts-of-Speech-and-Tenses.html",
+        "title": "A Study on Parts of Speech and Tenses",
+        "order": 5,
+        "section": "0Beginner"
+    },
+    {
+        "relative_path": "0Beginner/Part_One/Cases.html",
+        "title": "Greek Cases Overview",
+        "order": 6,
+        "section": "0Beginner"
+    },
+    {
+        "relative_path": "0Beginner/Part_One/Moods.html",
+        "title": "Verbal Moods and Verbal Nouns/Adjectives Overview",
+        "order": 7,
+        "section": "0Beginner"
+    },
+    {
+        "relative_path": "0Beginner/Part_One/Parts-of-Speech.html",
+        "title": "Parts of Speech Overview",
+        "order": 8,
+        "section": "0Beginner"
+    },
+    {
+        "relative_path": "0Beginner/Part_One/Voices.html",
+        "title": "Verbal Voices Overview",
+        "order": 9,
+        "section": "0Beginner"
+    },
+    {
+        "relative_path": "0Beginner/Part_Two/Seven-Tenses.html",
+        "title": "The Seven Tenses Overview",
+        "order": 10,
+        "section": "0Beginner"
+    },
+    {
+        "relative_path": "0Beginner/Part_Two/Verbal-Aspects.html",
+        "title": "Verbal Aspects Overview",
+        "order": 11,
+        "section": "0Beginner"
+    },
+    {
+        "relative_path": "1Adept/Part_One/nouns-endings-overview-1st-2nd.html",
+        "title": "1st and 2nd Declension Case Endings Overview",
+        "order": 12,
+        "section": "1Adept"
+    },
+    {
+        "relative_path": "1Adept/Part_Two/Ellada-vs-Kypros.html",
+        "title": "Ellada vs. Kypros: Dialectical & Diglossic Relationships",
+        "order": 13,
+        "section": "1Adept"
+    },
+    {
+        "relative_path": "1Adept/Part_Two/Nouns-3rd-Declensions.html",
+        "title": "3rd Declension Case Endings Overview",
+        "order": 14,
+        "section": "1Adept"
+    },
+    {
+        "relative_path": "2Lexicon/Morphological-Lexicon.html",
+        "title": "Greek Pronouns, Prepositions, Adverbs, and Particles",
+        "order": 15,
+        "section": "2Lexicon"
+    },
+    {
+        "relative_path": "2Lexicon/Prefixes-and-Suffixes.html",
+        "title": "Greek Prefixes and Suffixes Reference Guide",
+        "order": 16,
+        "section": "2Lexicon"
+    },
+    {
+        "relative_path": "3Lexicon-2/Part_One/Lexicon-Study-Set-1.html",
+        "title": "Lexicon Study Set 1",
+        "order": 17,
+        "section": "3Lexicon-2"
+    },
+    {
+        "relative_path": "3Lexicon-2/Part_Three/Lexical-and-Morphological-Relationships.html",
+        "title": "Study Charts: Lexical and Morphological Relationships",
+        "order": 18,
+        "section": "3Lexicon-2"
+    },
+    {
+        "relative_path": "3Lexicon-2/Part_Two/Lexicon-Study-Set-2.html",
+        "title": "Lexicon Study Set 2",
+        "order": 19,
+        "section": "3Lexicon-2"
+    },
+    {
+        "relative_path": "4Septuagint/About-Septuagint.html",
+        "title": "About Septuagint",
+        "order": 20,
+        "section": "4Septuagint"
+    },
+    {
+        "relative_path": "4Septuagint/Septuagint-Facts.html",
+        "title": "Septuagint Facts",
+        "order": 21,
+        "section": "4Septuagint"
+    }
+]

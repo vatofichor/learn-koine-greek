@@ -1,0 +1,15 @@
+<!-- ready: true -->
+<!-- ai-generated: false -->
+<!-- contributors: vatofichor -->
+# Welcome to learn-koine-greek
+
+    ![learn-koine-greek](../../Koine-Greek-Course.hide.png)
+
+    This course is the product of my own personal journey and notes compiled over two years of learning Koine Greek.
+
+    I'm still very new to this and excited to continue learning and refining these materials.
+
+    This particular version will become open-source under the MIT License on my GitHub under
+    [learn-koine-greek](https://github.com/vatofichor/learn-koine-greek).
+
+    Hey Lady Babylon!

@@ -1,0 +1,54 @@
+<!-- ready: true -->
+<!-- ai-generated: true -->
+# Ellada vs. Kypros: Dialectical & Diglossic Relationships
+
+    In linguistics, Ellada (Standard Modern Greek, or SMG) and Kypros (Cypriot Greek, or CG) are considered varieties of
+    the same language, but they function in a diglossia. SMG is the official "high" variety used in education and media,
+    while CG is the "low" vernacular used in daily life.
+
+    ---
+
+    ## Phonological Differences (Sounds)
+
+    * **Gemination**: Cypriot Greek preserves "double" consonants (e.g., σσ, ρρ, λλ), which are pronounced longer or
+    more forcefully. Standard Greek has lost this distinction.
+    * **Palatalization**: CG features "sh" (/ʃ/) and "ch" (/tʃ/) sounds. For example, και ("and") is pronounced *tse* or
+    *tzié* in Cyprus, whereas it is a soft *ke* in Greece.
+    * **Final -n**: CG preserves the final ν at the end of many words (e.g., βουνόν vs. βουνό), a trait found in Ancient
+    Greek.
+    * **Aspiration**: Certain voiceless plosives (k, p, t) can be aspirated in CG, a feature absent in SMG.
+
+    ---
+
+    ## Morphosyntactic Differences (Grammar)
+
+    * **Clitic Position**: In SMG, weak pronouns usually come before the verb (e.g., το είπα - "I said it"). In CG, they
+    often come after the verb (e.g., είπα το).
+    * **Past Tense Augment**: CG often preserves the "e-" prefix (ε-) in past tenses regardless of syllable count (e.g.,
+    εδιάβασα vs. SMG διάβασα).
+    * **Sentence Order**: CG frequently uses VSO (Verb-Subject-Object) or cleft constructions (εν που... - "it is
+    that...") more than the standard SVO order.
+
+    ---
+
+    ## Lexical Comparison (Vocabulary)
+
+    Many Cypriot words are either archaisms (Ancient Greek survivors) or loanwords from previous occupiers (Ottoman,
+    Venetian, British).
+
+    | Concept | Standard Greek (Ellada) | Cypriot Greek (Kypros) | Origin/Note |
+    | --- | --- | --- | --- |
+    | And | και (*ke*) | τζιαί (*tzié*) | Phonetic shift |
+    | Now | τώρα (*tóra*) | δαμαί / τώρα | *δαμαί* means "here/now" |
+    | See | βλέπω (*vlépo*) | θωρώ (*thoró*) | Ancient Greek θεωρώ |
+    | Small | μικρός (*mikrós*) | μικκύς (*mikkýs*) | Archaic form |
+    | Room | δωμάτιο (*domátio*) | κάμαρη (*kámari*) | Shared but CG-preferred |
+    | Chair | καρέκλα (*karékla*) | τσαέρα (*tsaéra*) | Old French (*chaire*) |
+
+    ---
+
+    ### The "Ancient Greek" Connection
+
+    There is a common perception that Cypriot is "closer" to Ancient Greek. While it preserves specific archaic features
+    (final -n, certain verb forms, and vocabulary like *αρμάζω* for wedding), it is not a direct descendant of Ancient
+    Greek in isolation; both evolved from Medieval/Byzantine Koine.

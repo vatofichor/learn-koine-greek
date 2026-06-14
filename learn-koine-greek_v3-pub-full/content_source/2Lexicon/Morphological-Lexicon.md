@@ -1,0 +1,393 @@
+<!-- ready: true -->
+<!-- ai-generated: false -->
+<!-- contributors: vatofichor -->
+# Greek Pronouns, Prepositions, Adverbs, and Particles
+
+    ## Pronouns & Demonstratives
+
+    ### αὐτός, -ή, -ό
+
+    **him, her, it, the**
+
+    *Identity*: It's "Self" in Nominative; 3rd person pronoun in oblique cases.
+
+    > ### Notes
+    >
+    >
+    > The *nominative case (or subjective case)* is the grammatical form used for a noun or pronoun that acts as the
+    subject of a finite verb, performing the action or being described.
+
+    ---
+
+    ### οὗτος, αὕτη, τοῦτο
+
+    **this**
+
+    *Proximity*: Points to the subject immediately preceding in the text.
+
+    ---
+
+    ### ἐκεῖνος, -η, -ο
+
+    **that**
+
+    *Distance*: Points to a subject further away or mentioned earlier.
+
+    > ### Notes
+    >
+    >
+    > *Demonstrative pronoun/adjective* meaning **"that" or "those,"** typically indicating something distant in place,
+    time, or thought ("that one there").
+    > It functions as a far-demonstrative, often contrasting with the near-demonstrative οὗτος (*hûtos*, "this"). It is
+    used for persons ("he," "she," "that person") or things.
+
+    ---
+
+    ### αὐτού / αὐτῷ
+
+    **of him / to him**
+
+    *Genitive/Dative*: The data points for the 3rd person/Identity system.
+
+    *Genitive : debit ; Dative : credit*
+
+    ---
+
+    ### τοῦτο / τούτῳ
+
+    **of this / to this**
+
+    *Genitive/Dative*: The data points for the Proximity (This) system.
+
+    > ### Notes
+    >
+    >
+    > The genitive case is a grammatical case, often used to show possession, ownership, or a close relationship between
+    nouns.
+    > The dative case is a grammatical case used primarily to indicate the indirect object, recipient, or beneficiary of
+    an action.
+
+    ---
+
+    ### ἑαυτοῦ
+
+    **of himself / itself**
+
+    *Reflexive*: Loopback mechanism where subject is also the object.
+
+    > ### Notes
+    >
+    >
+    > Reflexive refers to actions directed back upon the grammatical subject, typically using *pronouns ending in -self
+    or -selves.*
+    > Composition: It is a compound of Ἕ (himself/reflexive) and αὐτοῦ (of him).
+
+    ---
+
+    ### ὅς, ἥ, ὅ
+
+    **who, which, that**
+
+    *Relational*: Relative pronoun used to nest sub-clauses.
+
+    ---
+
+    ## Conjunctions & Teleological Particles
+
+    ### ὅτι
+
+    **that, because**
+
+    *Causal/Declarative*: Introduces facts or direct speech.
+
+    > ### Notes
+    >
+    >
+    > Causal refers to the relationship of cause and effect, where one event, process, or state (the cause) contributes
+    to the production of another (the effect).
+    > A declarative sentence makes a statement, providing facts, opinions, or explanations, and is the most common
+    sentence type in English.
+
+    ---
+
+    ### ἵνα
+
+    **in order that, so that**
+
+    *Teleological*: Signals purpose; usually triggers the Subjunctive mood.
+
+    > ### Notes
+    >
+    >
+    > The subjunctive is a verb mood used to explore *conditional or imaginary* situations, or to *express wishes,
+    emotions, possibilities, and necessities* rather than facts.
+    > Teleological refers to *explaining phenomena by their end, goal, or purpose* rather than by cause, derived from
+    the Greek *telos* ("end") and *logos* ("reason"). It suggests processes, especially in nature, are designed or
+    directed toward specific outcomes.
+
+    ---
+
+    ### ὅσος
+
+    **as much as, as many as**
+
+    *Scale*: Quantitative correlative mapping the extent of a thing.
+
+    *Correlative refers to two or more things that are mutually related, complementary, or dependent on each other.*
+
+    ---
+
+    ### ἄν
+
+    **(untranslatable to English)**
+
+    *Contingency*: Signals a statement is hypothetical or conditional.
+
+    > ### Notes
+    >
+    >
+    > Translations of αν:
+    > * **conjunction**: if (αν, εάν, προκειμένου)
+    > * **whether**: αν, εάν, είτε
+    >
+    >
+
+    ---
+
+    ## Prepositions (Case-Dependent)
+
+    ### διά (Genitive)
+
+    **through**
+
+    Agency (through a person) or spatial passage.
+
+    ---
+
+    ### διά (Accusative)
+
+    **because of, for the sake of**
+
+    The "Reason" or *cause* for an action.
+
+    > ### Notes
+    >
+    >
+    > * (of a place, poetic) through, among
+    > * (time) during
+    > * (causality) thanks to, by aid of, because of, for the sake of
+    >
+    >
+
+    ---
+
+    ### κατά (Genitive)
+
+    **against**
+
+    Opposition or downward motion.
+
+    > ### Notes
+    >
+    >
+    > Against, opposing, into
+
+    ---
+
+    ### κατά (Accusative)
+
+    **according to**
+
+    Standard for "According to Law" (Nomos). "Against the accusations of..."
+
+    > ### Notes
+    >
+    >
+    > Downwards, along, through, in, towards, during, for, for the purpose of, according to, in conformity with
+
+    ---
+
+    ### μετά (Genitive)
+
+    **of, among, with**
+
+    Association/Fellowship.
+
+    > ### Notes
+    >
+    >
+    > In the midst of, among, between, with, in common, along with, by aid of, concerning one's dealings with, (rare) at
+    the same time
+
+    ---
+
+    ### μετά (Accusative)
+
+    **after**
+
+    Chronological sequence.
+
+    *Analogy: "right behind you"; "that which came with me, is after"*
+
+    ---
+
+    ### ἐπί (Genitive)
+
+    **on, upon, in time of**
+
+    Contact or chronological era.
+
+    > ### Notes
+    >
+    >
+    > On, upon (on the upper surface of)
+    > *καθέζεται ἐπὶ θρόνου.* (kathézetai epì thrónou.) - He sits down on a throne.
+
+    ---
+
+    ### ἐπί (Dative)
+
+    **at, over, on basis of**
+
+    Location or a logical foundation.
+
+    > ### Notes
+    >
+    >
+    > On, upon, in, at, near, over, in honor of, against, in addition to, over, besides.
+    > *καθέζεται ἐπὶ θρόνῳ.* (kathézetai epì thrónōi.) - He sits down on a throne.
+    > (with duplication of head noun) after: *ὄγχνη ἐπ’ ὄγχνῃ γηράσκει* (ónkhnē ep’ ónkhnēi gēráskei) - One pear after
+    another ripens.
+    > In the power of, according to, (of conditions or circumstances) in, with, (of time, never in proper Attic) at, on,
+    (of time) after, (expressing a cause) on account of, for, (expressing a purpose) for, (of a condition) on, for (i.e.
+    in exchange for), (of a name) for, in charge of.
+
+    ---
+
+    ### ἐπί (Accusative)
+
+    **against / toward** | Motion toward or hostile intent.
+
+    ### παρά (Genitive)
+
+    **from (side of)** | Source (a message from a Sovereign).
+
+    ### παρά (Dative)
+
+    **beside / with** | Proximity (staying with someone).
+
+    ### παρά (Accusative)
+
+    **alongside** | Comparison or "contrary to" (beyond the Law).
+
+    ### πρός
+
+    **to / toward** | Face-to-face relationship or goal-oriented motion.
+
+    ### ὑπό (Genitive)
+
+    **by** | Direct Agency (performed by a subject).
+
+    ### ὑπό (Accusative)
+
+    **under** | Subordination/Power (under the Law).
+
+    ### ἐν
+
+    **in / among** | Stationary position; also "instrumental" (by means of).
+
+    ### εἰς
+
+    **into / toward** | Motion into a state or location; always takes Accusative.
+
+    ### ἐκ / ἐξ
+
+    **out of / from** | Separation from the origin or source.
+
+    ### ἀπό
+
+    **away from** | Separation from the exterior.
+
+    ---
+
+    ## Adverbs & Negatives
+
+    ### οὕτως / οὕτω
+
+    **thus, so, in this way** | Adverb of manner; the "how" of a command.
+
+    ### ὡσαύτως
+
+    **even so, just so** | Intensive adverb; "in the exact same way."
+
+    ### ἐνταῦθα
+
+    **just there, right here** | Specific locative particle.
+
+    ### εὐθύς
+
+    **then, immediately** | Common narrative transition; signals the next data point.
+
+    ### οὐ / οὐκ / οὐχ
+
+    **NOT (Factual)** | Objective denial; used with the Indicative mood.
+
+    ### μή
+
+    **NOT (Subjective)** | Subjective denial; used with commands/wishes/potential.
+
+    ---
+
+    ## Post-Positive Particles
+
+    ### γάρ
+
+    **for / because** | Post-positive; provides the evidence for what was just said.
+
+    ### δέ
+
+    **but / and / now** | Post-positive "weak" contrast or transition.
+
+    ### ἀλλά
+
+    **but / however** | Strong adversative; used for total reversals.
+
+    ### οὖν
+
+    **therefore / then** | Logical conclusion marker.
+
+    ### πλήν
+
+    **except / nevertheless** | Sets a boundary or limit to a previous statement.
+
+    ---
+
+    ## Morphological Prefixes & Suffixes
+
+    ### ε- (Prefix)
+
+    **Past Augment** | Identifies the verb as historical/past data.
+
+    ### -σ- (Infix)
+
+    **Sigma Marker** | Signals the Future or Aorist (completed) action system.
+
+    ### α- (Prefix)
+
+    **Privative** | Negates the root (e.g., *a-sebeia* = un-godliness).
+
+    ### ἀπο- (Prefix)
+
+    **Intensive "Off"** | Signals total separation or completion of an act.
+
+    ### -μα
+
+    **Result (Suffix)** | The Output of an action (e.g., *dikaioma* - result of justice).
+
+    ### -σις
+
+    **Process (Suffix)** | The Action itself (e.g., *krisis* - the act of judging).
+
+    ### -της
+
+    **Agent (Suffix)** | The Entity performing the action (e.g., *krites* - the judge).

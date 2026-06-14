@@ -1,0 +1,37 @@
+<!-- ready: true -->
+<!-- ai-generated: false -->
+<!-- contributors: vatofichor -->
+# 3rd Declension Case Endings Overview
+
+    ## Nominative
+
+    * **singular:** -s
+    * **plural:** -ες, -α
+
+    ---
+
+    ## Genitive
+
+    * **singular:** -ος
+    * **plural:** -ων
+
+    ---
+
+    ## Dative
+
+    * **singular:** -ι
+    * **plural:** -σι(ν)
+
+    ---
+
+    ## Accusative
+
+    * **singular:** -α, -ν
+    * **plural:** -ας, -α
+
+    ---
+
+    ## Vocative
+
+    * **singular:** -s
+    * **plural:** -ες, -α
