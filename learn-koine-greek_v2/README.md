@@ -3,7 +3,8 @@
 Instructions for installation, running, uninstallation, and content contribution guidelines.
 
 > [!NOTE]
-> There is nothing stopping you from mutating the content article parts to fit whatever course you want. This project can be used as a general course browser for your own purposes (free, commercial, or individual).
+> There is nothing stopping you from mutating the content article parts to fit whatever course you want.
+> [Checkout simple-course-explorer under the hood!](https://github.com/vatofichor/simple-course-explorer)
 
 ---
 
