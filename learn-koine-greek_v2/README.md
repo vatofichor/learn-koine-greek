@@ -3,7 +3,7 @@
 Instructions for installation, running, uninstallation, and content contribution guidelines.
 
 > [!NOTE]
-> There is nothing stopping you from mutating the content article parts to fit whatever course you want.
+> There is a new version without known bugs, V3!
 > [Checkout simple-course-explorer under the hood!](https://github.com/vatofichor/simple-course-explorer)
 
 ---
