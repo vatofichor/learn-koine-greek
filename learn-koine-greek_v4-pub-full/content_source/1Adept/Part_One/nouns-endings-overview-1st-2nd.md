@@ -1,0 +1,37 @@
+<!-- ready: true -->
+<!-- ai-generated: false -->
+<!-- contributors: vatofichor -->
+# 1st and 2nd Declension Case Endings Overview
+
+    ## Nominative
+
+    * **singular:** -η, -α, -ης, -ος, -ον
+    * **plural:** -αι, -οι, -α
+
+    ---
+
+    ## Genitive
+
+    * **singular:** -ης, -ας, -ου
+    * **plural:** -ων
+
+    ---
+
+    ## Dative
+
+    * **singular:** -ῃ, -ᾳ, -ῳ
+    * **plural:** -αις, -οις
+
+    ---
+
+    ## Accusative
+
+    * **singular:** -ην, -αν, -ον
+    * **plural:** -ας, -ους, -α
+
+    ---
+
+    ## Vocative
+
+    * **singular:** -η, -α, -ε, -ον
+    * **plural:** -αι, -οι, -α
