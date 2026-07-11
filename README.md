@@ -1,8 +1,50 @@
 # Learn Koine Greek Course
+## Version 4 - Final Release Version
 
 A lightweight, premium learning space featuring 22 comprehensive lessons covering alphabet, pronunciation, grammar, verbal aspect mapping, lexicon study sets, and historical Septuagint contexts.
 
-This application is built on top of the database-free **Simple Course Explorer** framework.
+This application is built on top of the database-free [Simple Course Explorer](https://github.com/vatofichor/simple-course-explorer) framework.
+
+---
+
+## Content Source Files:
+
+Found in root of project under *`\content_source\`* folder in Markdown format:
+
+| Folder | File | Description |
+|--|--|--|
+| `\0Beginner\Introduction\` | `01-Course-Introduction.md` | Welcome and personal introduction detailing the origin and purpose of the course. |
+|  | `02-README.md` | Guidelines pointing to the core GitHub project repository and customizing lessons. |
+|  | `03-Greek-Dialects-History.md` | Overview of ancient Greek dialects (Attic, Doric, Aeolic, Ionic) and historical Semitic influences in the Septuagint. |
+|  | `04-Verbs-Morphological-Map.md` | A hierarchical map of ancient Greek verbal morphology categorized by finite and non-finite moods. |
+|  | `05-Alphabet-and-Counting.md` | Contains information about the Greek alphabet and counting. |
+| `\0Beginner\Part_One\` | `Voices.md` | Summary definitions and explanations of the active, middle, and passive voices. |
+|  | `A-Study-On-Parts-of-Speech-and-Tenses.md` | An optional study guide mapping parts of speech and the dimensions of time and aspect in verbal tenses. |
+|  | `Cases.md` | Grammatical guide explaining the functions of the Nominative, Genitive, Dative, Accusative, and Vocative cases. |
+|  | `Moods.md` | Comprehensive overview of verbal moods (Indicative, Subjunctive, Imperative, Optative) and verbal nouns/adjectives. |
+|  | `Parts-of-Speech.md` | Standard definitions and abbreviations for basic parts of speech. |
+| `\0Beginner\Part_Two\` | `Seven-Tenses.md` | Explanations of the seven tense forms in Greek and how they convey time and aspect. |
+|  | `Verbal-Aspects.md` | Detailed breakdown of Imperfective, Aorist, and Perfective aspects. |
+| `\1Adept\Part_One\` | `nouns-endings-overview-1st-2nd.md` | Reference chart detailing the case endings for first and second declension nouns. |
+| `\1Adept\Part_Two\` | `Nouns-3rd-Declensions.md` | Reference table outlining the singular and plural case endings of third declension nouns. |
+|  | `Ellada-vs-Kypros.md` | Linguistic analysis of the dialectical, phonological, and grammatical differences between Standard Modern Greek and Cypriot Greek. |
+| `\2Lexicon\` | `Morphological-Lexicon.md` | Morphological reference list covering high-frequency Greek pronouns, prepositions, adverbs, and particles. |
+|  | `Prefixes-and-Suffixes.md` | Exhaustive reference guide mapping Greek prefixes and suffixes to their semantic meanings and English derivatives. |
+| `\3Lexicon-2\Part_One\` | `Lexicon-Study-Set-1.md` | Vocabulary study cards for high-frequency particles and conjunctions, featuring PIE roots and system logic. |
+| `\3Lexicon-2\Part_Two\` | `Lexicon-Study-Set-2.md` | Extensive study set of key Koine Greek nouns and verbs, complete with etymological analysis and semantic range. |
+| `\3Lexicon-2\Part_Three\` | `Lexical-and-Morphological-Relationships.md` | Study charts mapping cosmological and temporal vocabulary with systems-level computer architecture analogies. |
+| `\4Septuagint\` | `About-Septuagint.md` | Historical context, linguistic shift analysis, and a systematic master chart of the books of the Septuagint. |
+|  | `Septuagint-Facts.md` | Fact sheets, division checklists, and mnemonic acronyms for memorizing the books of the Septuagint. |
+
+---
+
+# The `\dev\` Folder
+
+| File | Description |
+|--|--|
+| `admin_scripts/convert.php` | Builds the course HTML from the Markdown files. |
+| `admin_scripts/update_password.bat` **&** `admin_scripts/update_password.sh` | Resets the administrator password. |
+| `specs/markdown-spec.md` | The markdown specification for editing the content source files. |
 
 ---
 
