@@ -1,5 +1,6 @@
 # Learn Koine Greek Course
-## Version 4 - New version underway, adding counting, master conjunction and declension pivots, and more!
+## Version 4
+New version underway: arithmetic, counting, modulators, master conjunction and declension pivots, and more!
 
 A lightweight, premium learning space featuring 22 comprehensive lessons covering alphabet, pronunciation, grammar, verbal aspect mapping, lexicon study sets, and historical Septuagint contexts.
 
